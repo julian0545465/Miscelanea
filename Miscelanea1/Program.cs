@@ -11,11 +11,10 @@ namespace ConsoleApp2
         public static double n1, n2, n3, n4;
         static void Main(string[] args)
         {
-            string linea;
+            string line;
             do
             {
-
-                linea = null;
+                line = null;
 
                 Console.WriteLine("Menu Principal");
                 Console.WriteLine("Seleccione el metodo: \n1. Operadores  \n2. Condicionales \n3. Ciclos \n4. Salida");
@@ -207,9 +206,7 @@ namespace ConsoleApp2
                 }
                 Console.WriteLine("---------------------------------------------------------------------------------------------");
                 Console.WriteLine("");
-            } while (linea != "ayuda");
-
-            Console.WriteLine("Has ingresado: \t" + linea);
+            } while (line != " ");
         }
     }
 }
