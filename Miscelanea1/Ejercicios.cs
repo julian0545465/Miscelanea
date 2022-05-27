@@ -24,7 +24,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -35,7 +35,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -54,7 +54,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -65,7 +65,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -99,7 +99,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
 
@@ -117,7 +117,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -135,7 +135,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -146,7 +146,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -166,7 +166,7 @@ namespace ConsoleApp2
             catch (Exception ex)
             {
 
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
 
@@ -189,7 +189,7 @@ namespace ConsoleApp2
             catch(Exception ex)
             {
 
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -201,7 +201,7 @@ namespace ConsoleApp2
             catch (Exception ex)
             {
 
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -215,7 +215,7 @@ namespace ConsoleApp2
             catch (Exception ex)
             {
 
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -234,7 +234,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -258,7 +258,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -269,7 +269,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -301,7 +301,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -312,7 +312,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -323,7 +323,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -399,7 +399,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -410,7 +410,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -437,7 +437,7 @@ namespace ConsoleApp2
             } 
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -448,7 +448,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -483,7 +483,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -521,7 +521,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -600,7 +600,7 @@ namespace ConsoleApp2
             }
             catch (Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -613,7 +613,7 @@ namespace ConsoleApp2
             }
             catch(Exception ex)
             {
-                Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                 Console.WriteLine(ex.Message);
                 return;
             }
@@ -640,7 +640,7 @@ namespace ConsoleApp2
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine("ERROR, VOLVIENDO AL MENU PRINCIPAL. ");
+                    Console.WriteLine("ERROR DE DIGITACION, VOLVIENDO AL MENU PRINCIPAL. ");
                     Console.WriteLine(ex.Message);
                     return;
                 }
